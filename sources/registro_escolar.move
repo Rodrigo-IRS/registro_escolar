@@ -1,7 +1,7 @@
 module registro_escolar::registro_escolar {
     // ===================================================================================
     // Módulo: Registro Escolar Descentralizado
-    // Autor: Rodrigo IRS (con ayuda de Gemini)
+    // Autor: Rodrigo IRS
     //
     // -- DESCRIPCIÓN DEL PROYECTO --
     // Este módulo implementa un sistema básico para la gestión de registros estudiantiles
